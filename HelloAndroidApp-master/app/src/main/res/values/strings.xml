@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">HelloAndroidApp</string>
+
+    <!-- Calculator Display -->
+    <string name="display_initial_text">0</string>
+
+    <!-- Calculator Buttons -->
+    <string name="button_0_text">0</string>
+    <string name="button_1_text">1</string>
+    <string name="button_2_text">2</string>
+    <string name="button_3_text">3</string>
+    <string name="button_4_text">4</string>
+    <string name="button_5_text">5</string>
+    <string name="button_6_text">6</string>
+    <string name="button_7_text">7</string>
+    <string name="button_8_text">8</string>
+    <string name="button_9_text">9</string>
+
+    <string name="button_dot_text">.</string>
+    <string name="button_equals_text">=</string>
+    <string name="button_add_text">+</string>
+    <string name="button_subtract_text">-</string>
+    <string name="button_multiply_text">*</string>
+    <string name="button_divide_text">/</string>
+
+    <string name="button_clear_text">C</string>
+    <string name="button_backspace_text">⌫</string>
+
+    <!-- Calculator Error Messages -->
+    <string name="error_generic">Error</string>
+    <string name="error_division_by_zero">Error: Division by zero</string>
+
+</resources>
